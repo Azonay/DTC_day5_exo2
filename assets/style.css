@@ -26,6 +26,11 @@ h1 {
     display: block; 
     margin: 15px auto 0 auto; 
     text-align: center;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.photo:hover {
+    transform: scale(1.5);
 }
 .carte {
     border-radius: 15px;
