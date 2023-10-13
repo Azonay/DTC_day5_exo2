@@ -1,0 +1,62 @@
+body {
+    background-color: #017143;
+}
+h1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.features h1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+.marge {
+    margin: 20px 100px 20px 100px;
+    height: 200px;
+}
+.photo {
+    max-width: 35%;
+    display: block; 
+    margin: 15px auto 0 auto; 
+    text-align: center;
+}
+.carte {
+    border-radius: 15px;
+    margin-bottom: 15px;
+    max-height: max-content;
+}
+.titre {
+    display: block; 
+    margin: 0 auto 20px; 
+    text-align: center;
+    font-weight: bolder;
+    color: #017143;
+}
+.text {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 15px;
+}
+.bouton {
+    text-align: center;
+    margin: 10px auto;
+    background-color: #017143;
+    font-weight: bold;
+    border-radius: 30px;
+    font-size: 15px;
+}
+h2 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
